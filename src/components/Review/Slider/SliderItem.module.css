@@ -1,0 +1,8 @@
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 16px;
+  box-sizing: border-box;
+}

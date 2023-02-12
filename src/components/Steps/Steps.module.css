@@ -1,0 +1,50 @@
+.wraper {
+  display: flex;
+  margin-top: calc(98px + 56px);
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+}
+
+.even {
+  margin-right: -14px;
+}
+
+.odd {
+  margin-left: -14px;
+}
+
+.line {
+  width: 4px;
+  height: 877px;
+  background: linear-gradient(180deg, #1ff2ff 0%, #27f9e5 52.66%, #2fffcd 100%);
+  position: relative;
+  z-index: -1;
+}
+
+.left {
+  transform: rotate(0deg);
+}
+.right {
+  transform: rotate(180deg);
+}
+
+.first {
+  display: flex;
+  flex-direction: column;
+  gap: 144px;
+  position: relative;
+  top: -98px;
+}
+
+.last {
+  display: flex;
+  flex-direction: column;
+  gap: 144px;
+  position: relative;
+  top: 98px;
+}

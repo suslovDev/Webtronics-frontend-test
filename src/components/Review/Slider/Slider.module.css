@@ -1,0 +1,69 @@
+.review {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  padding-top: 48px;
+}
+.navigate {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.ordinal {
+  display: flex;
+  gap: 8px;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: Clash Display;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.ordinal span {
+  font-size: 16px;
+  line-height: 19px;
+}
+.actions {
+  position: relative;
+  bottom: 16px;
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+.actions button {
+  cursor: pointer;
+}
+.slides {
+  display: flex;
+  gap: 24px;
+  justify-content: space-around;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.item {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item p {
+  position: absolute;
+}
+.item:nth-child(2) {
+  width: 184px;
+}
+.item:nth-child(3) {
+  width: 184px;
+}
+.slider {
+  display: flex;
+  flex-direction: column;
+}
+.info {
+  position: relative;
+  top: 89px;
+}

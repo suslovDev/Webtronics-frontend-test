@@ -1,0 +1,28 @@
+.step-wraper {
+  position: relative;
+  display: flex;
+}
+
+.step-content {
+  padding: 24px;
+  width: 475px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.brace {
+  position: absolute;
+  width: 146px;
+  height: calc(100% + 37px);
+  top: -18.5px;
+}
+
+.left-side {
+  right: -16px;
+}
+
+.right-side {
+  left: -16px;
+  transform: rotate(180deg);
+}

@@ -1,0 +1,20 @@
+.program {
+  position: relative;
+  width: 185px;
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90%;
+  justify-content: space-evenly;
+}
+
+.pic {
+  width: fit-content;
+}

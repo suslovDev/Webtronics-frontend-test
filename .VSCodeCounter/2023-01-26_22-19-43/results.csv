@@ -1,0 +1,50 @@
+"filename", "language", "TypeScript", "TypeScript React", "CSS", "comment", "blank", "total"
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\About\About.module.css", "CSS", 0, 0, 29, 0, 5, 34
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\About\About.tsx", "TypeScript React", 0, 41, 0, 0, 3, 44
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Container.module.css", "CSS", 0, 0, 8, 0, 1, 9
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Container.tsx", "TypeScript React", 0, 6, 0, 0, 3, 9
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Header.module.css", "CSS", 0, 0, 6, 0, 1, 7
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Header.tsx", "TypeScript React", 0, 40, 0, 0, 3, 43
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Layout.module.css", "CSS", 0, 0, 0, 0, 2, 2
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Layout\Layout.tsx", "TypeScript React", 0, 13, 0, 0, 3, 16
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Mentor\IMentor.ts", "TypeScript", 5, 0, 0, 0, 0, 5
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Mentor\Mentor.module.css", "CSS", 0, 0, 18, 0, 3, 21
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Mentor\Mentor.tsx", "TypeScript React", 0, 20, 0, 0, 3, 23
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Program\Program.module.css", "CSS", 0, 0, 19, 0, 2, 21
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Program\ProgramProps.ts", "TypeScript", 4, 0, 0, 0, 0, 4
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Program\index.tsx", "TypeScript React", 0, 25, 0, 0, 3, 28
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Program\svg\ProgramBorder.tsx", "TypeScript React", 0, 58, 0, 0, 2, 60
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Review\Review.module.css", "CSS", 0, 0, 71, 1, 2, 74
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Review\Review.tsx", "TypeScript React", 0, 97, 0, 0, 6, 103
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\Slider.module.css", "CSS", 0, 0, 0, 0, 1, 1
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\Slider.tsx", "TypeScript React", 0, 7, 0, 0, 2, 9
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\SliderItem.module.css", "CSS", 0, 0, 14, 0, 2, 16
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\SliderItem.tsx", "TypeScript React", 0, 16, 0, 4, 5, 25
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\svg\ISlideImage.ts", "TypeScript", 5, 0, 0, 0, 1, 6
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Slider\svg\SlideImage.tsx", "TypeScript React", 0, 241, 0, 0, 7, 248
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Technologies\Technologies.module.css", "CSS", 0, 0, 12, 0, 1, 13
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\Technologies\Technologies.tsx", "TypeScript React", 0, 30, 0, 0, 4, 34
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Arrow\Arrow.module.css", "CSS", 0, 0, 13, 0, 1, 14
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Arrow\Arrow.tsx", "TypeScript React", 0, 21, 0, 0, 3, 24
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Arrow\IArrow.ts", "TypeScript", 4, 0, 0, 0, 0, 4
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Button\Button.module.css", "CSS", 0, 0, 27, 0, 1, 28
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Button\ButtonProps.ts", "TypeScript", 6, 0, 0, 0, 0, 6
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Button\index.tsx", "TypeScript React", 0, 35, 0, 0, 3, 38
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\GradientCard\GradientCard.module.css", "CSS", 0, 0, 24, 0, 1, 25
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\GradientCard\GradientCard.tsx", "TypeScript React", 0, 18, 0, 0, 3, 21
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\GradientCard\IGradientCard.ts", "TypeScript", 6, 0, 0, 0, 1, 7
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Heading\Heading.module.css", "CSS", 0, 0, 19, 0, 2, 21
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Heading\Heading.tsx", "TypeScript React", 0, 29, 0, 0, 6, 35
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Heading\IHeading.ts", "TypeScript", 6, 0, 0, 0, 1, 7
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Input\Input.module.css", "CSS", 0, 0, 0, 0, 1, 1
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Input\InputProps.ts", "TypeScript", 2, 0, 0, 0, 1, 3
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Input\index.tsx", "TypeScript React", 0, 6, 0, 0, 3, 9
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Paragraph\IParagraph.ts", "TypeScript", 5, 0, 0, 0, 1, 6
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Paragraph\Paragraph.module.css", "CSS", 0, 0, 15, 0, 2, 17
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Paragraph\Paragraph.tsx", "TypeScript React", 0, 13, 0, 0, 4, 17
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Section\ISection.ts", "TypeScript", 7, 0, 0, 0, 1, 8
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Section\Section.module.css", "CSS", 0, 0, 18, 1, 1, 20
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\components\UI\Section\Section.tsx", "TypeScript React", 0, 18, 0, 0, 3, 21
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\static-data\mentors.ts", "TypeScript", 18, 0, 0, 0, 1, 19
+"d:\Projects\for-webtronics\Webtronics-frontend-test\src\static-data\programs.ts", "TypeScript", 7, 0, 0, 0, 1, 8
+"Total", "-", 75, 734, 293, 6, 106, 1214

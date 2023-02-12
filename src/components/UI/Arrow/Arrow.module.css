@@ -1,0 +1,14 @@
+.arrow {
+  all: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  z-index: 200;
+  position: relative;
+}
+.arrow:hover {
+  cursor: pointer;
+}
+

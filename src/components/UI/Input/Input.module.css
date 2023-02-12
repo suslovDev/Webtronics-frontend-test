@@ -1,0 +1,37 @@
+.block {
+  position: relative;
+  box-sizing: border-box;
+  width: 493px;
+  height: 70px;
+  overflow: hidden;
+  color: #a2cbfb;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: Inter;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.block input {
+  all: unset;
+  position: absolute;
+  width: calc(100% - 48px);
+  padding: 24px;
+}
+.block input::placeholder {
+  all: unset;
+}
+.block input:active {
+  color: #fff;
+}
+.error {
+  border-color: #fd4646;
+}
+.no-gradient {
+  position: relative;
+  width: 100%;
+  color: #fff;
+  background-color: #ffa5a533;
+  border: 2px solid red;
+  border-radius: 8px;
+}

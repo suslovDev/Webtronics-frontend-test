@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}

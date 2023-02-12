@@ -1,0 +1,18 @@
+.program {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  width: 188px;
+}
+.program__head {
+  width: 186px;
+  height: 186px;
+  overflow: hidden;
+  background-image: linear-gradient(white, white),
+    linear-gradient(rgba(21, 191, 253, 0.7) 9.96%, rgba(156, 55, 253, 0.7) 100%);
+  background-clip: content-box, border-box;
+  background-origin: border-box;
+  border: double 2px transparent;
+  border-radius: 50%;
+}

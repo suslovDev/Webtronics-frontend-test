@@ -1,0 +1,22 @@
+.heading {
+  width: 641px;
+}
+.questions {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.accordeon-list,
+.accordeon-list li {
+  all: unset;
+}
+.accordeon-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

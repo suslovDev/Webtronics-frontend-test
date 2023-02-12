@@ -1,0 +1,29 @@
+.standart {
+  width: 497px;
+}
+.large {
+  width: 288px;
+}
+.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+.button {
+  position: relative;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72px;
+  color: #0a1482;
+  font: 500 20px/24px "Inter", sans-serif;
+  background: linear-gradient(180deg, #1ff2ff 0%, #27f9e5 52.66%, #2fffcd 100%);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.button:hover {
+  color: #3b48d0;
+}
+.button:active {
+  color: #fff;
+}

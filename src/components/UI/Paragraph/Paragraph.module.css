@@ -1,0 +1,16 @@
+.p1 {
+  font: 400 16px/22.4px "Inter", sans-serif;
+}
+
+.p2 {
+  font: 400 14px/19.6px "Inter", sans-serif;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
