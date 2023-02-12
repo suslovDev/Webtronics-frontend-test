@@ -1,3 +1,16 @@
+Exercise:
+create an interactive one-page feedback page and integrate the API.
+
+Technologies for executing a test task:
+1) Reactjs - to create an interface
+2) Typescript - for typing
+3) Module.css / scss / sass - for styling
+4) React HookForm - for collecting data
+5) Yup - for validation
+6) Nextjs - for SSR
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started Server
@@ -12,16 +25,6 @@ yarn server
 
 The server for interacting with the API will be running on http:localhost:3004
 
-To get contacts, use a GET request to http:localhost:3004/feedback
-
-To create contact, use a POST request to http:localhost:3004/feedback
-```
-  {
-    "name": string,
-    "email": stirng,
-    "phone": stirng
-  }
-```
 
 ## Getting Started Fontend
 
